@@ -1,0 +1,15 @@
+c:\users\jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\bin\Debug\SpaceLandEditor.exe.config
+c:\users\jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\obj\Debug\SpaceLandEditor.csprojResolveAssemblyReference.cache
+c:\users\jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\obj\Debug\SpaceLandEditor.Form1.resources
+c:\users\jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\obj\Debug\SpaceLandEditor.Properties.Resources.resources
+c:\users\jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\obj\Debug\SpaceLandEditor.csproj.GenerateResource.Cache
+c:\users\jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\bin\Debug\SpaceLandEditor.exe
+c:\users\jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\bin\Debug\SpaceLandEditor.pdb
+c:\users\jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\obj\Debug\SpaceLandEditor.exe
+c:\users\jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\obj\Debug\SpaceLandEditor.pdb
+C:\Users\Jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\obj\Debug\SpaceLandEditor.Form2.resources
+C:\Users\Jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\obj\Debug\SpaceLandEditor.Form3.resources
+C:\Users\Jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\bin\Debug\SpaceLandEditor.exe.manifest
+C:\Users\Jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\bin\Debug\SpaceLandEditor.application
+C:\Users\Jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\obj\Debug\SpaceLandEditor.exe.manifest
+C:\Users\Jake\documents\visual studio 2015\Projects\SpaceLandEditor\SpaceLandEditor\obj\Debug\SpaceLandEditor.application
